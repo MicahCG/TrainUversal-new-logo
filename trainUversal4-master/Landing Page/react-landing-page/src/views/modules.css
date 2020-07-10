@@ -1,0 +1,59 @@
+.container {
+  position: relative;
+  text-align: center;
+  color: black;
+}
+
+.centered {
+  position: relative;
+  top: 25%;
+  
+  
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
+  
+}
+
+@media screen and (min-width: 601px) {
+  p.words {
+    font-size: 15;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  p.words {
+    font-size: 10;
+  }
+}
+
+.modulesbackground{
+  background-color: black;
+}
+
+.secondnav{
+  justify-content: right;
+  text-align: right;
+}
+
+.newbackground{
+  background-size: cover;
+}
+
+.extraspace{
+  min-height: 15rem;
+  justify-content: center;
+  text-align: center;
+}
+
+.sociallinks{
+  justify-content: center;
+  text-align: center;
+}
+
+.footernote{
+  max-width: 20rem;
+}

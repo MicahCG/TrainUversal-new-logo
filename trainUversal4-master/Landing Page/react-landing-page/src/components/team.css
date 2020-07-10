@@ -1,0 +1,16 @@
+@media (min-width: 768px){
+.new {
+    flex: 0 0 33%;
+    max-width: 31%;
+}
+}
+
+.imgFix{
+    height: 200px;
+    width: 200px;
+    display: inline !important;
+}
+
+.elementinfo{
+    justify-content: center;
+}

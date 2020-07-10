@@ -1,0 +1,134 @@
+/* #bgOverlay .view{
+    background-image: url('https://images.unsplash.com/photo-1462206092226-f46025ffe607?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height:100%;
+    width: 100%;
+}
+
+ */
+
+ @media only screen and (min-width: 992px) {
+    .imgWidth{
+        width: 150% !important;
+    }
+ }
+
+ .commitment{
+     justify-content: center;
+ }
+
+ .purposequote{
+     background-color: #1A202C;
+     color: #1A202C;
+ }
+
+ .fas{
+     color: #3a5271;
+ }
+
+ .slogan{
+     justify-content: center;
+     text-align: center;
+     font-size: large;
+     font-weight: 700;
+ }
+
+ .newarea{
+
+    border-radius: 20px;
+     box-shadow: #1A202C;
+ }
+
+ .underlined{
+text-decoration: underline;
+text-decoration-color: #19304e;
+text-decoration-thickness: 1px ;
+ }
+
+ .newmandv{
+     border-radius:20px ;
+     border-style: solid;
+     border-color: #dbe2eb;
+     border-width: 1px;
+     box-shadow: black;
+ }
+
+ .slogans
+{
+    justify-content: center;
+    text-align: center;
+}
+
+.infogcolor{
+    background-color: #3a5271 ;
+    color:red;
+}
+
+.imagez{
+    border-style: solid;
+    border-color: #3a5271;
+    border-width: .5px;
+}
+
+.imagezz{
+    border-style: solid;
+    border-color: #3a5271;
+    border-width: .5rem;
+}
+
+.bg-400{
+    background-color: #3a5271;
+}
+
+.tops{
+    color:white;
+}
+
+.ourmission{
+    text-align: left;
+    font-size: larger;
+}
+
+.newimage{
+    justify-content: center;
+}
+
+.carouselimg{
+    max-width: 26rem;
+    max-height: 26rem;
+}
+
+.ourgoals{
+    justify-content: center;
+    text-align: center;
+}
+
+.logoimg{
+    max-width: 2rem;
+    size: 2rem;
+}
+
+.ourteam{
+    text-align: left;
+}
+
+.missionbackground{
+    background-color: gray;
+}
+
+.visionsec{
+    justify-content: right;
+    text-align: right;
+}
+
+.Aboutsec{
+    justify-content: left;
+    text-align: left;
+}
+
+.whyourmodules{
+    justify-content: center;
+    text-align: center;
+}

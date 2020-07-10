@@ -1,0 +1,15 @@
+.view .mask{
+    position: relative !important;
+}
+.btn-outline-default{
+    border-color: white !important;
+    color: white !important;
+}
+
+.navbar{
+    box-shadow: none !important;
+}
+
+.typewriter{
+    font-size: 20rem;
+}
